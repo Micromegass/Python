@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1902cdfe-5d98-4535-895e-7cf8d700d19d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1902cdfe-5d98-4535-895e-7cf8d700d19d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +10,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/pythonPractice$classes.coverage" NAME="classes Coverage Results" MODIFIED="1553901396463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonPractice$mayusculas.coverage" NAME="mayusculas Coverage Results" MODIFIED="1553906079880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonPractice$mayusculas.coverage" NAME="mayusculas Coverage Results" MODIFIED="1553906761935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonPractice$py.coverage" NAME="py Coverage Results" MODIFIED="1552943120292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/pythonPractice$AlgorithmoFelicidadGraphico_pyw.coverage" NAME="AlgorithmoFelicidadGraphico.pyw Coverage Results" MODIFIED="1553903008371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonPractice$Divisibles.coverage" NAME="Divisibles Coverage Results" MODIFIED="1553903778364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -20,6 +18,7 @@
     <SUITE FILE_PATH="coverage/pythonPractice$AcumulateNotes.coverage" NAME="AcumulateNotes Coverage Results" MODIFIED="1553033453201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonPractice$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1553905527999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonPractice$String.coverage" NAME="String Coverage Results" MODIFIED="1553211896156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonPractice$empty_input.coverage" NAME="empty_input Coverage Results" MODIFIED="1553907111173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -80,11 +79,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mayusculas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="75">
+              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/empty_input.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -137,6 +145,7 @@
         <option value="$PROJECT_DIR$/Divisibles.py" />
         <option value="$PROJECT_DIR$/factorial.py" />
         <option value="$PROJECT_DIR$/mayusculas.py" />
+        <option value="$PROJECT_DIR$/empty_input.py" />
       </list>
     </option>
   </component>
@@ -186,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mayusculas">
+  <component name="RunManager" selected="Python.empty_input">
     <configuration name="AlgorithmoFelicidadGraphico.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="empty_input" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,7 +253,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/empty_input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.empty_input" />
         <item itemvalue="Python.mayusculas" />
         <item itemvalue="Python.factorial" />
         <item itemvalue="Python.Divisibles" />
         <item itemvalue="Python.AlgorithmoFelicidadGraphico.pyw" />
-        <item itemvalue="Python.classes" />
       </list>
     </recent_temporary>
   </component>
@@ -321,12 +330,12 @@
       <workItem from="1553025389332" duration="12752000" />
       <workItem from="1553211491239" duration="3267000" />
       <workItem from="1553281010238" duration="5000" />
-      <workItem from="1553899137774" duration="5180000" />
+      <workItem from="1553899137774" duration="6215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25022000" />
+    <option name="totallyTimeSpent" value="26057000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -443,8 +452,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mayusculas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/empty_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
