@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# esta importando el paquete 'path' de la libreria os y dando un alias p
+# esta importando el modulo 'path' de la libreria os y dando un alias p
 from os import path as p
 
 # esta dando un alias pt al metodo nativo print de python (para confundir y para ahorrar codigo)
